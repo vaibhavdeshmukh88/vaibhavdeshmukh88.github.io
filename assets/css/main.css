@@ -14,7 +14,7 @@ body {
   height: 100%;
   z-index: -20;
   background-color: #182327;
-  /*background: linear-gradient(#000000,#191919);*/
+  background: linear-gradient(#000000,#272525);
   /*background-image: url("");
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,7 +22,7 @@ body {
 }
 
 .head{
-  color: #32CD32;
+  color: #e0110a;
   /*font-family: 'Karla', sans-serif;*/
   font-family: 'Lustria', serif;
   font-family: 'Raleway', sans-serif;
@@ -78,7 +78,7 @@ p{
 
 }
 .fb, .lin, .git, .twit, .mail, .res, .quora, .insta{
-  color:#32CD32;
+  color:#e0110a;
 }
 
 .ico{
