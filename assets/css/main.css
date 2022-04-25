@@ -13,8 +13,8 @@ body {
   width: 100%;
   height: 100%;
   z-index: -20;
-  background-color: #182327;
-  background: linear-gradient(#000000,#272525);
+  /*background-color: #182327;*/
+  background: linear-gradient(#000000,#1b1b1b);
   /*background-image: url("");
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,7 +22,7 @@ body {
 }
 
 .head{
-  color: #e0110a;
+  color: #5876db;
   /*font-family: 'Karla', sans-serif;*/
   font-family: 'Lustria', serif;
   font-family: 'Raleway', sans-serif;
@@ -78,7 +78,7 @@ p{
 
 }
 .fb, .lin, .git, .twit, .mail, .res, .quora, .insta{
-  color:#e0110a;
+  color:#5876db;
 }
 
 .ico{
@@ -157,7 +157,7 @@ p{
 }
 
 .p {
-  background-color: blue;
+  background-color: #5876db;;
   height: 100%;
   width: 10%;
   float: left;
